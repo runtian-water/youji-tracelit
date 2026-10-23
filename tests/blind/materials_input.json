@@ -1,0 +1,652 @@
+{
+  "task": "perovskite interface passivation",
+  "records": [
+    {
+      "blind_id": 1,
+      "openalex_id": "W4382047949",
+      "title": "Surface Passivation Suppresses Local Ion Motion in Halide Perovskites",
+      "year": 2023,
+      "type": "article",
+      "doi": "10.1021/acs.jpclett.3c01089",
+      "category": "primary",
+      "evidence": "in the presence and absence of chemical surface passivation. Moreover, we find that ion migration is heterogeneous, with domain interfaces leading to a larger CPD shift than domain interiors. We use hyperspectral microscopy to confirm that APTMS-treated perovskite films undergo less photoinduced halide migration than control films. We interpret these results as due to a reduction in the halide vacancy concentration after APTMS passivation.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 2,
+      "openalex_id": "W4406689916",
+      "title": "The role of TCNQ for surface and interface passivation in inverted perovskite solar cells",
+      "year": 2025,
+      "type": "article",
+      "doi": "10.1007/s40243-024-00280-9",
+      "category": "primary",
+      "evidence": "Abstract The noticeable growth in the power conversion efficiency of solution-processed organo-inorganic halide perovskite solar cells (OIHPSCs) incited the photovoltaic community to look for limitations that hurdle the commercialization process. The surface and interface defects between the perovskite and electron transport layers are among the main challenges that cause significant non-radiative recombination losses, thereby they result in poor performance and stability.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 3,
+      "openalex_id": "W3198657994",
+      "title": "Linked Nickel Oxide/Perovskite Interface Passivation for High‐Performance Textured Monolithic Tandem Solar Cells",
+      "year": 2021,
+      "type": "article",
+      "doi": "10.1002/aenm.202101662",
+      "category": "primary",
+      "evidence": "However, surface traps and undesirable chemical reactions at the NiOx/perovskite interface are limiting the performance of NiOx‐based PSCs. To address these issues simultaneously, an efficient NiOx/perovskite interface passivation strategy by using an organometallic dye molecule (N719) is reported. 5% without dye passivation) with a high processing yield. These findings provide critical insights for improved passivation of the NiOx/perovskite interface, and the fabrication of highly efficient, robust, and large‐area perovskite‐based optoelectronic devices.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 4,
+      "openalex_id": "W3213258905",
+      "title": "Surface Passivation Toward Efficient and Stable Perovskite Solar Cells",
+      "year": 2021,
+      "type": "article",
+      "doi": "10.1002/eem2.12296",
+      "category": "primary",
+      "evidence": "Although metal halide perovskites are increasingly popular for the next generation of efficient photovoltaic devices, the inevitable defects from the preparation process have become the notorious barrier to further improvement of performance, which increases non‐radiative recombination and lowers the power conversion efficiency of solar cells. Surface passivation strategies have been affirmed as one of the most practical approaches to suppress these defects. Therefore, it is necessary to have a detailed review on the surface passivation to reveal the improvements of the devices.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 5,
+      "openalex_id": "W4408765604",
+      "title": "Perspective: Atomic Layer Deposition Strategies for Surface Passivation of Metal-Halide Perovskite Absorbers",
+      "year": 2025,
+      "type": "article",
+      "doi": "10.1007/s13391-025-00563-x",
+      "category": "primary",
+      "evidence": "Abstract Recent advancements have been made in perovskite solar cells (PSCs) using atomic layer deposition (ALD) of aluminum oxide (Al2O3) and other suitable metal oxides such as zirconium oxide (ZrO2) as a perovskite surface passivation technique. ALD has demonstrated significant potential for enhancing photovoltaic (PV) performance and the long-term light, thermal, humidity, and ultraviolet (UV) stability of PSCs by addressing surface defects leading to higher charge extraction and mitigating environmental degradation with only a few nanometers of thickness.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": true
+    },
+    {
+      "blind_id": 6,
+      "openalex_id": "W3118995082",
+      "title": "Metallic surface doping of metal halide perovskites",
+      "year": 2021,
+      "type": "article",
+      "doi": "10.1038/s41467-020-20110-6",
+      "category": "primary",
+      "evidence": "Intentional doping is the core of semiconductor technologies to tune electrical and optical properties of semiconductors for electronic devices, however, it has shown to be a grand challenge for halide perovskites. Here, we show that some metal ions, such as silver, strontium, cerium ions, which exist in the precursors of halide perovskites as impurities, can n-dope the surface of perovskites from being intrinsic to metallic.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 7,
+      "openalex_id": "W7162820459",
+      "title": "Enhancing stability of halide perovskite memristors via atomic layer deposition surface passivation",
+      "year": 2026,
+      "type": "report",
+      "doi": "",
+      "category": "primary",
+      "evidence": "UV–Vis absorption and photoluminescence (PL) spectroscopy measurements show that low temperature alumina acts as an effective passivation layer, maintaining a sharp absorption and enhancing PL for {En}MAPI, while high temperature deposition leads to absorbance loss and strong PL quenching which indicate defect creation and decomposition.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "unavailable",
+        "reason": "no_doi"
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 8,
+      "openalex_id": "W4313401489",
+      "title": "Synergetic Passivation of Metal‐Halide Perovskite with Fluorinated Phenmethylammonium toward Efficient Solar Cells and Modules",
+      "year": 2022,
+      "type": "article",
+      "doi": "10.1002/aenm.202203681",
+      "category": "primary",
+      "evidence": "Abstract Surface passivation with organic halide salts is a powerful strategy to enhance the performance of perovskite solar cells. However, the inevitable formed in‐plane favored two‐dimensional perovskite layers with low carrier mobility and high binding energy inhibit the interfacial charge transfer within the device. Herein, a bulky fluorinated phenmethylammonium salt is designed and synthesized to passivate the perovskite film without forming 2D perovskites.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 9,
+      "openalex_id": "W4394854758",
+      "title": "Halide Perovskites for Photoelectrochemical Water Splitting and CO2 Reduction: Challenges and Opportunities",
+      "year": 2024,
+      "type": "article",
+      "doi": "10.1021/acscatal.3c06040",
+      "category": "primary",
+      "evidence": "Metal halide perovskites (MHPs) have been extensively studied for this purpose in recent years due to their suitable optoelectronic properties. After a brief introduction to photoelectrochemical (PEC) processes, we discussed the properties, synthesis, and application of MHPs in this context. The stability toward water has been also improved by using various methods such as compositional engineering, 2D/3D perovskite structures, surface passivation, the use of protective layers, and encapsulation.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 10,
+      "openalex_id": "W4401975630",
+      "title": "Inorganic surface passivation strategies of metal halide perovskites",
+      "year": 2024,
+      "type": "article",
+      "doi": "10.1002/ifm2.20",
+      "category": "primary",
+      "evidence": "Surface passivation serves as a pivotal strategy to obtain high‐quality perovskite materials, either in a manner of bulk thin film or nanocrystal, with superior optoelectronic properties and stability. Inorganic materials, possessing more stable chemical structures and stronger chemical bonding than their organic counterparts, offer the opportunities to construct more robust passivation for the perovskite surfaces.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 11,
+      "openalex_id": "W4289890585",
+      "title": "Interface passivation for perovskite solar cell: A good or bad strategy?",
+      "year": 2022,
+      "type": "article",
+      "doi": "10.1016/j.matt.2022.05.039",
+      "category": "primary",
+      "evidence": "",
+      "evidence_field": "title",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": true
+    },
+    {
+      "blind_id": 12,
+      "openalex_id": "W4368365236",
+      "title": "Surface Passivation of FAPbI3-Rich Perovskite with Cesium Iodide Outperforms Bulk Incorporation",
+      "year": 2023,
+      "type": "article",
+      "doi": "10.1021/acsenergylett.3c00609",
+      "category": "primary",
+      "evidence": "Metal halide perovskites (MHPs) have shown an incredible increase in efficiency, reaching as high as 25. Herein, we excluded CsX and RbX (X = I –, Br –, Cl – ), the most commonly used cations to stabilize α-FAPbI 3, from the bulk of perovskite thin films and applied them on the surface as passivation agents.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 13,
+      "openalex_id": "W4378908949",
+      "title": "Defect Engineering to Achieve Photostable Wide Bandgap Metal Halide Perovskites",
+      "year": 2023,
+      "type": "article",
+      "doi": "10.1021/acsenergylett.3c00610",
+      "category": "primary",
+      "evidence": "Bandgap tuning is a crucial characteristic of metal-halide perovskites, with benchmark lead-iodide compounds having a bandgap of 1. 0 eV, a straightforward strategy is to partially substitute iodide with bromide in so-called mixed-halide lead perovskites. Crystallinity improvement and surface passivation strategies can effectively slow down, but not completely stop, such light-induced instability. This leads to metal halide perovskites with a photostable bandgap over a wide spectral range and associated solar cells with photostable open circuit voltages.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 14,
+      "openalex_id": "W4294897721",
+      "title": "High grain boundary recombination velocity in polycrystalline metal halide perovskites",
+      "year": 2022,
+      "type": "article",
+      "doi": "10.1126/sciadv.abq8345",
+      "category": "primary",
+      "evidence": "Understanding carrier recombination processes in metal halide perovskites is fundamentally important to further improving the efficiency of perovskite solar cells, yet the accurate recombination velocity at grain boundaries (GBs) has not been determined. Here, we report the determination of carrier recombination velocities at GBs ( S GB ) of polycrystalline perovskites by mapping the transient photoluminescence pattern change induced by the nonradiative recombination of carriers at GBs.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 15,
+      "openalex_id": "W4406772389",
+      "title": "Efficient surface and interface passivation for perovskite submodules",
+      "year": 2025,
+      "type": "article",
+      "doi": "10.1016/j.cjsc.2025.100527",
+      "category": "primary",
+      "evidence": "",
+      "evidence_field": "title",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 16,
+      "openalex_id": "W4290566666",
+      "title": "Impact of Hole‐Transport Layer and Interface Passivation on Halide Segregation in Mixed‐Halide Perovskites",
+      "year": 2022,
+      "type": "article",
+      "doi": "10.1002/adfm.202204825",
+      "category": "primary",
+      "evidence": "Abstract Mixed‐halide perovskites offer ideal bandgaps for tandem solar cells, but photoinduced halide segregation compromises photovoltaic device performance. 6)3 perovskite films with a poly(triaryl)amine (PTAA) hole‐extraction layer surprisingly leads to suppression of halide segregation because photogenerated charge carriers are rapidly trapped at interfacial defects that do not drive halide segregation.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 17,
+      "openalex_id": "W4410090818",
+      "title": "A balanced view of ion migration in halide perovskite electronics",
+      "year": 2025,
+      "type": "article",
+      "doi": "10.1016/j.newton.2025.100096",
+      "category": "primary",
+      "evidence": "",
+      "evidence_field": "title",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 18,
+      "openalex_id": "W4383313636",
+      "title": "Interface passivation for 31.25%-efficient perovskite/silicon tandem solar cells",
+      "year": 2023,
+      "type": "article",
+      "doi": "10.1126/science.adg0091",
+      "category": "primary",
+      "evidence": "Silicon solar cells are approaching their theoretical efficiency limit of 29%. This limitation can be exceeded with advanced device architectures, where two or more solar cells are stacked to improve the harvesting of solar energy. In this work, we devise a tandem device with a perovskite layer conformally coated on a silicon bottom cell featuring micrometric pyramids—the industry standard—to improve its photocurrent.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 19,
+      "openalex_id": "W3160793562",
+      "title": "Using steric hindrance to manipulate and stabilize metal halide perovskites for optoelectronics",
+      "year": 2021,
+      "type": "article",
+      "doi": "10.1039/d1sc01171e",
+      "category": "primary",
+      "evidence": "Recently, the important role of utilizing steric hindrance for stabilizing and passivating perovskites has been demonstrated. In this perspective, we summarize the applications of steric hindrance in manipulating and stabilizing perovskites. We will also discuss how steric hindrance influences the fundamental kinetics of perovskite crystallization and film formation processes. In all, utilizing steric hindrance is a promising strategy to manipulate and stabilize metal halide perovskites for optoelectronics.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 20,
+      "openalex_id": "W4286894275",
+      "title": "Interfacial engineering to modulate surface dipoles, work functions and dielectric confinement of halide perovskites via surface passivation",
+      "year": 2021,
+      "type": "conference-paper",
+      "doi": "",
+      "category": "primary",
+      "evidence": "National audience",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "unavailable",
+        "reason": "no_doi"
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 21,
+      "openalex_id": "W3130174494",
+      "title": "Efficient perovskite solar cells via improved carrier management",
+      "year": 2021,
+      "type": "article",
+      "doi": "10.1038/s41586-021-03285-w",
+      "category": "primary",
+      "evidence": "",
+      "evidence_field": "title",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 22,
+      "openalex_id": "W3135934986",
+      "title": "Review of Interface Passivation of Perovskite Layer",
+      "year": 2021,
+      "type": "article",
+      "doi": "10.3390/nano11030775",
+      "category": "primary",
+      "evidence": "Perovskite solar cells (PSCs) are the most promising substitute for silicon-based solar cells. The interface of a perovskite polycrystalline film is considered to be a defect-rich area, which is the main factor limiting the efficiency of a PSC. This review introduces and summarizes practical interface engineering techniques for improving the efficiency and stability of organic-inorganic lead halide PSCs. Subsequently, the latest developments pertaining to a modification of the perovskite layers with different materials are discussed.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 23,
+      "openalex_id": "W4280619312",
+      "title": "Efficient Passivation on Halide Perovskite by Tailoring the Organic Molecular Functional Groups: First-Principles Investigation",
+      "year": 2022,
+      "type": "article",
+      "doi": "10.1016/j.apsusc.2022.153716",
+      "category": "primary",
+      "evidence": "",
+      "evidence_field": "title",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 24,
+      "openalex_id": "W4321018137",
+      "title": "Rational design of Lewis base molecules for stable and efficient inverted perovskite solar cells",
+      "year": 2023,
+      "type": "article",
+      "doi": "10.1126/science.ade3970",
+      "category": "primary",
+      "evidence": "Lewis base molecules that bind undercoordinated lead atoms at interfaces and grain boundaries (GBs) are known to enhance the durability of metal halide perovskite solar cells (PSCs). Experimentally, we found that the best inverted PSC treated with 1,3-bis(diphenylphosphino)propane (DPPP), a diphosphine Lewis base that passivates, binds, and bridges interfaces and GBs, retained a power conversion efficiency (PCE) slightly higher than its initial PCE of ~23% after continuous operation under simulated AM1.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 25,
+      "openalex_id": "W7120195872",
+      "title": "Recent Advances on Self‐Powered Metal Halide Perovskite Photodetectors",
+      "year": 2026,
+      "type": "article",
+      "doi": "10.1002/ece2.70031",
+      "category": "primary",
+      "evidence": "ABSTRACT Metal halide perovskite (MHP) semiconducting materials are considered as promising candidates for next‐generation photodetectors due to their exceptional optoelectronic properties, including tunable bandgaps, high absorption coefficient, long carrier lifetime and diffusion lengths, and solution processability at low cost. This review article provides a comprehensive overview of recent advances in SPPDs, focusing on the correlation between perovskite material characteristics, device architectures, and photodetection performance.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 26,
+      "openalex_id": "W2949664934",
+      "title": "Imperfections and their passivation in halide perovskite solar cells",
+      "year": 2019,
+      "type": "review",
+      "doi": "10.1039/c8cs00853a",
+      "category": "background",
+      "evidence": "All highly-efficient organic-inorganic halide perovskite (OIHP) solar cells to date are made of polycrystalline perovskite films which contain a high density of defects, including point and extended imperfections. The imperfections in OIHP materials play an important role in the process of charge recombination and ion migration in perovskite solar cells (PSC), which heavily influences the resulting device energy conversion efficiency and stability.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": false,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true,
+        "background_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 27,
+      "openalex_id": "W2980046541",
+      "title": "Recent Progresses on Defect Passivation toward Efficient Perovskite Solar Cells",
+      "year": 2019,
+      "type": "article",
+      "doi": "10.1002/aenm.201902650",
+      "category": "background",
+      "evidence": "Abstract The disorderly distribution of defects in the perovskite or at the grain boundaries, surfaces, and interfaces, which seriously affect carrier transport through the formation of nonradiative recombination centers, hinders the further improvement on the power conversion efficiency (PCE) of perovskite solar cells (PSCs). Several defect passivation strategies have been confirmed as an efficient approach for promoting the performance of PSCs.",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": false,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true,
+        "background_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    },
+    {
+      "blind_id": 28,
+      "openalex_id": "W4392297594",
+      "title": "Self-Assembled Monolayers for Interfacial Engineering in Solution-Processed Thin-Film Electronic Devices: Design, Fabrication, and Applications",
+      "year": 2024,
+      "type": "review",
+      "doi": "10.1021/acs.chemrev.3c00396",
+      "category": "background",
+      "evidence": "Interfacial engineering has long been a vital means of improving thin-film device performance, especially for organic electronics, perovskites, and hybrid devices. It greatly facilitates the fabrication and performance of solution-processed thin-film devices, including organic field effect transistors (OFETs), organic solar cells (OSCs), perovskite solar cells (PVSCs), and organic light-emitting diodes (OLEDs).",
+      "evidence_field": "abstract",
+      "checks": {
+        "year_ok": true,
+        "type_ok": true,
+        "language_ok": true,
+        "retracted_ok": true,
+        "version_ok": true,
+        "background_ok": true
+      },
+      "verification": {
+        "status": "pass",
+        "reason": ""
+      },
+      "genre_warning": false
+    }
+  ]
+}

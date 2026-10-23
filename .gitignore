@@ -1,0 +1,29 @@
+# Secrets — never commit API keys
+.env
+.env.*
+!.env.example
+
+# Local run artifacts
+runs/
+release/
+.clip.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/

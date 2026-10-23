@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use TraceLit in academic work, please cite it as below."
+title: "TraceLit (有迹): auditable literature screening for undergraduate research"
+abstract: >-
+  TraceLit searches OpenAlex, verifies DOIs through Crossref/DataCite, and emits
+  an auditable exclusion table, reproduction record, GB/T 7714 references, and
+  cost accounting. It is a research prototype, not a systematic-review tool.
+authors:
+  - name: "TraceLit contributors"
+type: software
+license: MIT
+version: 0.5.0-beta.1
+date-released: 2026-10-22
+keywords:
+  - literature screening
+  - OpenAlex
+  - DOI verification
+  - reproducible research
+  - GB/T 7714

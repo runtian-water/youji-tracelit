@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "openalex_id": "W2044164772",
+      "title": "Nanometre-scale thermometry in a living cell",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "primary",
+      "one_liner": "体系/手段一致"
+    }
+  ]
+}

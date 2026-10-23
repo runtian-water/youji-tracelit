@@ -1,0 +1,405 @@
+{
+  "mode": "semantic",
+  "records": [
+    {
+      "openalex_id": "W3213258905",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "review",
+      "evidence_quote": "Surface passivation strategies have been affirmed as one of the most practical approaches to suppress these defects.",
+      "one_liner": "表面钝化综述，直接相关",
+      "confidence_1_5": 5,
+      "notes": "evidence 明确 'a detailed review on the surface passivation'"
+    },
+    {
+      "openalex_id": "W4408765604",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "background",
+      "evidence_quote": "ALD has demonstrated significant potential for enhancing photovoltaic (PV) performance and the long-term light, thermal, humidity, and ultraviolet (UV) stability of PSCs by addressing surface defects",
+      "one_liner": "ALD表面钝化观点文，相关",
+      "confidence_1_5": 4,
+      "notes": "标题明确 Perspective，background_candidate=true"
+    },
+    {
+      "openalex_id": "W3118995082",
+      "verdict": "×",
+      "reason_code": "M1",
+      "category": "primary",
+      "evidence_quote": "can n-dope the surface of perovskites from being intrinsic to metallic.",
+      "one_liner": "表面掺杂而非界面钝化",
+      "confidence_1_5": 5,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W7162820459",
+      "verdict": "×",
+      "reason_code": "S1",
+      "category": "primary",
+      "evidence_quote": "low temperature alumina acts as an effective passivation layer",
+      "one_liner": "忆阻器对象，非太阳能电池",
+      "confidence_1_5": 5,
+      "notes": "钝化手段相关但器件为忆阻器；另无 DOI，first-fail 语义先判"
+    },
+    {
+      "openalex_id": "W4394854758",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "Halide Perovskites for Photoelectrochemical Water Splitting and CO2 Reduction: Challenges and Opportunities",
+      "one_liner": "光解水与CO2还原，主题不符",
+      "confidence_1_5": 5,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W4289890585",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "background",
+      "evidence_quote": "Interface passivation for perovskite solar cell: A good or bad strategy?",
+      "one_liner": "观点短文，界面钝化利弊之辩",
+      "confidence_1_5": 4,
+      "notes": "background_candidate=true 为权威标记，按背景处理不受空摘要 E1 限制；quote 取自 title"
+    },
+    {
+      "openalex_id": "W4378908949",
+      "verdict": "×",
+      "reason_code": "M1",
+      "category": "primary",
+      "evidence_quote": "Crystallinity improvement and surface passivation strategies can effectively slow down, but not completely stop, such light-induced instability.",
+      "one_liner": "缺陷工程而非界面钝化",
+      "confidence_1_5": 3,
+      "notes": "主线是缺陷工程实现光稳定，钝化仅为对比策略"
+    },
+    {
+      "openalex_id": "W4294897721",
+      "verdict": "×",
+      "reason_code": "M1",
+      "category": "primary",
+      "evidence_quote": "we report the determination of carrier recombination velocities at GBs ( S GB ) of polycrystalline perovskites",
+      "one_liner": "测晶界复合速度，非钝化",
+      "confidence_1_5": 5,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W4406772389",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": "标题主题明确但是 primary research，无摘要证据不硬判 ✓"
+    },
+    {
+      "openalex_id": "W4410090818",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "background",
+      "evidence_quote": "A balanced view of ion migration in halide perovskite electronics",
+      "one_liner": "离子迁移主题，非界面钝化",
+      "confidence_1_5": 4,
+      "notes": "background_candidate=true，但主题明显为离子迁移，按规则仍 T1"
+    },
+    {
+      "openalex_id": "W3160793562",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "background",
+      "evidence_quote": "In this perspective, we summarize the applications of steric hindrance in manipulating and stabilizing perovskites.",
+      "one_liner": "位阻策略观点文，兼钝化相关",
+      "confidence_1_5": 4,
+      "notes": "evidence 明确 'In this perspective'，判 ✓ B；位阻钝化与界面钝化相关，边界样本"
+    },
+    {
+      "openalex_id": "W4286894275",
+      "verdict": "○",
+      "reason_code": "D1",
+      "category": "primary",
+      "evidence_quote": "Interfacial engineering to modulate surface dipoles, work functions and dielectric confinement of halide perovskites via surface passivation",
+      "one_liner": "无DOI，先别引用",
+      "confidence_1_5": 3,
+      "notes": "标题含 surface passivation 主题相关；无 DOI 且摘要仅 'National audience'"
+    },
+    {
+      "openalex_id": "W4280619312",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": "标题表明分子官能团钝化（第一性原理计算），无摘要证据"
+    },
+    {
+      "openalex_id": "W7120195872",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "review",
+      "evidence_quote": "This review article provides a comprehensive overview of recent advances in SPPDs, focusing on the correlation between perovskite material characteristics, device architectures, and photodetection performance.",
+      "one_liner": "光电探测器综述，主题不符",
+      "confidence_1_5": 5,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W4224231637",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "primary",
+      "evidence_quote": "the American Heart Association launched the Supporting Undergraduate Research Experiences for undergraduate students from underrepresented backgrounds to provide mentorship and high-level exposure at 5 leading medical institutions.",
+      "one_liner": "多校联合科研训练项目评估",
+      "confidence_1_5": 4,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W3021782622",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "review",
+      "evidence_quote": "In the past decade, the assessment of undergraduate research experience (URE) and course-based undergraduate research (CURE) has evolved and significantly expanded",
+      "one_liner": "科研经历评估文献综述",
+      "confidence_1_5": 4,
+      "notes": "标注书目型综述，background_candidate=true，计 B"
+    },
+    {
+      "openalex_id": "W2791731278",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "primary",
+      "evidence_quote": "New data highlight the importance of undergraduate research experiences (UREs) for keeping underrepresented science students on the pathway to a scientific career.",
+      "one_liner": "科研经历促进群体多样性",
+      "confidence_1_5": 5,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W4394917050",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": "标题主题明确但是 primary research，无摘要证据"
+    },
+    {
+      "openalex_id": "W4387638390",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W7209172141",
+      "verdict": "×",
+      "reason_code": "P1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "非研究文献，类型不符",
+      "confidence_1_5": 4,
+      "notes": "OpenAlex type=other，疑为立项/经费记录而非文献；type_ok=False"
+    },
+    {
+      "openalex_id": "W2870063238",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": "background_candidate=false 且 evidence 为空；标题的 Perspectives 指研究对象视角而非文体标注，按 v3 规则不凭标题判 ✓ B"
+    },
+    {
+      "openalex_id": "W2998897029",
+      "verdict": "×",
+      "reason_code": "P1",
+      "category": "review",
+      "evidence_quote": "",
+      "one_liner": "书评，类型不符",
+      "confidence_1_5": 5,
+      "notes": "type=book-review，书评按规则 × P1；background_candidate 只豁免 Y1，不豁免 P1"
+    },
+    {
+      "openalex_id": "W4400817240",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 3,
+      "notes": "会议论文，无摘要证据"
+    },
+    {
+      "openalex_id": "W2517954377",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W2017521473",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "background",
+      "evidence_quote": "analysis of the accounts of faculty and student participants yields comparative insights into the structural elements of this form of UR program and its benefits for students.",
+      "one_liner": "经典奠基研究，科研经历育人",
+      "confidence_1_5": 4,
+      "notes": "2006 年经典研究，background_candidate=true 豁免 Y1，计 B 不计 K"
+    },
+    {
+      "openalex_id": "W2057858327",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "background",
+      "evidence_quote": "These studies need powerful and generalizable assessments that can document student progress, help distinguish effective and ineffective aspects of the experiences, and illustrate how students interpret the research experiences they encounter.",
+      "one_liner": "科研经历综述，经典背景",
+      "confidence_1_5": 4,
+      "notes": "2015 年 Science 经典综述，background_candidate=true 豁免 Y1，计 B 不计 K"
+    },
+    {
+      "openalex_id": "W2021651899",
+      "verdict": "×",
+      "reason_code": "P1",
+      "category": "background",
+      "evidence_quote": "",
+      "one_liner": "论文集前言，类型不符",
+      "confidence_1_5": 5,
+      "notes": "type=paratext（会议论文集）；background_candidate=true 只豁免 Y1，paratext 仍按 P1"
+    },
+    {
+      "openalex_id": "W7143562537",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "在全面推进乡村振兴战略的时代语境下，农村公路已从单纯的交通基础设施演变为承载产业振兴、生态 宜居、文化传承与基层治理多重功能的复合型公共空间。",
+      "one_liner": "公路管理体制，非数字治理",
+      "confidence_1_5": 5,
+      "notes": "规则明确公路管理只算乡村振兴一侧"
+    },
+    {
+      "openalex_id": "W4405308621",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": "标题双命中数字治理+乡村振兴，但无摘要证据"
+    },
+    {
+      "openalex_id": "W4387585836",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": ""
+    },
+    {
+      "openalex_id": "W4409670658",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "数字经济作为新时代信息快速发展的产物，对促进乡村振兴意义重大，尤其在推动农村产业深度融合、促进农民生活消费升级以及助力资金注入农村与高效利用等方面为乡村注入新鲜活力。",
+      "one_liner": "数字经济兴乡村，缺治理维度",
+      "confidence_1_5": 5,
+      "notes": "规则明确数字经济只算乡村振兴一侧"
+    },
+    {
+      "openalex_id": "W4360591947",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 4,
+      "notes": "标题含 digital governance path，双命中但无摘要"
+    },
+    {
+      "openalex_id": "W7155586195",
+      "verdict": "○",
+      "reason_code": "D1",
+      "category": "primary",
+      "evidence_quote": "Against the backdrop of China's comprehensive rural revitalization strategy, exploring how to optimize rural governance through digital technologies has become a critical issue demanding urgent attention.",
+      "one_liner": "乡村数字治理案例，无DOI",
+      "confidence_1_5": 4,
+      "notes": "主题双命中，无 DOI 无法核验"
+    },
+    {
+      "openalex_id": "W4403282642",
+      "verdict": "○",
+      "reason_code": "E1",
+      "category": "primary",
+      "evidence_quote": "",
+      "one_liner": "摘要缺失，待读全文",
+      "confidence_1_5": 3,
+      "notes": "标题为数字乡村治理+产业振兴，主题命中但无摘要"
+    },
+    {
+      "openalex_id": "W4411050059",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "Drawing on empirical data from 2020 to 2024, this paper examines the STC system's role in driving technological innovation, industrial transformation, and digital governance in rural China.",
+      "one_liner": "科技特派员制度，单侧主题",
+      "confidence_1_5": 4,
+      "notes": "规则明确科技特派员只算乡村振兴一侧；数字治理仅为附带维度"
+    },
+    {
+      "openalex_id": "W4389481180",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "With the goal of exploring the efficiency of the rule of law in rural revitalization",
+      "one_liner": "乡村法治效率，非数字治理",
+      "confidence_1_5": 5,
+      "notes": "规则明确法治只算乡村振兴一侧"
+    },
+    {
+      "openalex_id": "W4415012708",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "the \"10 million village project\" has gradually transitioned from a government-led demonstration and guidance phase to an upgraded development phase with collaborative governance by multiple subjects",
+      "one_liner": "千万工程治理，无数字维度",
+      "confidence_1_5": 5,
+      "notes": "规则明确千万工程只算乡村振兴一侧"
+    },
+    {
+      "openalex_id": "W4327967891",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "primary",
+      "evidence_quote": "So methods of empirical analysis are integrated to evaluate deliberative governance of old revolutionary base area in Jinzhai County (China).",
+      "one_liner": "协商治理案例，非数字治理",
+      "confidence_1_5": 5,
+      "notes": "规则明确协商治理只算乡村振兴一侧"
+    },
+    {
+      "openalex_id": "W4404921314",
+      "verdict": "×",
+      "reason_code": "T1",
+      "category": "review",
+      "evidence_quote": "current practices primarily focus on digital agricultural production, rural e-commerce, and agricultural information exchange.",
+      "one_liner": "小农数字化转型，非治理",
+      "confidence_1_5": 4,
+      "notes": "background_candidate=true，但主题为农业数字化转型，非数字治理，按规则仍 T1"
+    },
+    {
+      "openalex_id": "W4411904380",
+      "verdict": "✓",
+      "reason_code": "",
+      "category": "background",
+      "evidence_quote": "This paper provides novel insight into the interplay between rural digital governance and sustainable technology adoption in middle-income and low-income countries.",
+      "one_liner": "村务线上社群与秸秆还田",
+      "confidence_1_5": 3,
+      "notes": "线上村务社群属乡村数字治理载体，双命中；background_candidate=true 权威标记，按背景处理计 B"
+    }
+  ]
+}

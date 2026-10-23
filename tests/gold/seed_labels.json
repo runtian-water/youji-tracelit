@@ -1,0 +1,674 @@
+[
+  {
+    "source_run": "materials",
+    "openalex_id": "W4382047949",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "界面钝化，直接相关"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4406689916",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "表面钝化，直接相关"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W3198657994",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "NiOx 界面钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W3213258905",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "综述，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4408765604",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "Perspective，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W3118995082",
+    "verdict": "×",
+    "reason_code": "M1",
+    "category": "primary",
+    "one_liner": "表面掺杂，非钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W7162820459",
+    "verdict": "×",
+    "reason_code": "S1",
+    "category": "primary",
+    "one_liner": "忆阻器器件，非光伏"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4313401489",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "协同钝化，直接相关"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4394854758",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "review",
+    "one_liner": "水分解应用，非钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4401975630",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "综述，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4289890585",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "Preview，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4368365236",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "CsI 表面钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4378908949",
+    "verdict": "×",
+    "reason_code": "M1",
+    "category": "primary",
+    "one_liner": "体相缺陷工程，非界面"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4294897721",
+    "verdict": "×",
+    "reason_code": "M1",
+    "category": "primary",
+    "one_liner": "测复合速度，非钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4406772389",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4290566666",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "钝化与卤素偏析"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4410090818",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "观点文，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4383313636",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "叠层界面钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W3160793562",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "Perspective，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4286894275",
+    "verdict": "○",
+    "reason_code": "D1",
+    "category": "primary",
+    "one_liner": "无 DOI，先别引用"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W3130174494",
+    "verdict": "×",
+    "reason_code": "M1",
+    "category": "primary",
+    "one_liner": "载流子管理，非钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W3135934986",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "综述，作背景"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4280619312",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4321018137",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "Lewis 碱界面钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W7120195872",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "review",
+    "one_liner": "光电探测器，非钝化"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W2949664934",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景综述"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W2980046541",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景综述"
+  },
+  {
+    "source_run": "materials",
+    "openalex_id": "W4392297594",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景综述"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4224231637",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "AHA 项目，直接相关"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W3021782622",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "书目，作背景"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2791731278",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "URE 多样性，相关"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2507208157",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "CSURE 项目，相关"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4394917050",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4387638390",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2737895790",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "师生发表，相关"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W7209172141",
+    "verdict": "×",
+    "reason_code": "P1",
+    "category": "primary",
+    "one_liner": "类型 other，非论文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2732049857",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "地球物理项目"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2771668682",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "培训工作坊"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2870063238",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4394629095",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "EECS 留存"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W3037212265",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "BME 项目"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W3087776987",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "M-CURE 项目"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W3214813268",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "转学生 URE"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2625861689",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "工程研究生"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4312245553",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "导师实践"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4416127968",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "加速培训"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W3149329047",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "研究概念化"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4412027922",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "植物纳米化学"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4410755398",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "远程结构化"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2998897029",
+    "verdict": "×",
+    "reason_code": "P1",
+    "category": "primary",
+    "one_liner": "书评，非论文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W4400817240",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2513222399",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "导师包容"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2517954377",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2017521473",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景综述"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2057858327",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景综述"
+  },
+  {
+    "source_run": "social",
+    "openalex_id": "W2021651899",
+    "verdict": "×",
+    "reason_code": "P1",
+    "category": "primary",
+    "one_liner": "会议前言，非论文"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4283122218",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "数字治理，直接相关"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W7143562537",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "primary",
+    "one_liner": "公路管理，非数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4405308621",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4387585836",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4414724564",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "数据融合方法"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4409670658",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "primary",
+    "one_liner": "数字经济，非数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4396533765",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "西安数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4360591947",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4409861432",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "数字治理与电商"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4414122005",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "三资数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4412775675",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "含数字治理路径"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W7155586195",
+    "verdict": "○",
+    "reason_code": "D1",
+    "category": "primary",
+    "one_liner": "无 DOI，先别引用"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4403282642",
+    "verdict": "○",
+    "reason_code": "E1",
+    "category": "primary",
+    "one_liner": "摘要缺失，待读全文"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4400156754",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "数字技术赋能"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4411050059",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "primary",
+    "one_liner": "科技特派员，非数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4406457165",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "邳州数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4402067708",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "社区数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W7169505557",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "治理碎片化"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4389481180",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "primary",
+    "one_liner": "法治，非数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4402311692",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "河南数字乡村"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4415012708",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "primary",
+    "one_liner": "千万工程，非数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4324344621",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "垃圾分类治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4410798395",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "社会资本视角"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4327967891",
+    "verdict": "×",
+    "reason_code": "T1",
+    "category": "primary",
+    "one_liner": "协商治理，非数字治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W7155361149",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "primary",
+    "one_liner": "环境行为治理"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4404921314",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景综述"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4285322538",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景评估"
+  },
+  {
+    "source_run": "chinese",
+    "openalex_id": "W4411904380",
+    "verdict": "✓",
+    "reason_code": "",
+    "category": "background",
+    "one_liner": "背景研究"
+  }
+]
