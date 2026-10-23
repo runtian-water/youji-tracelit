@@ -35,4 +35,5 @@
 | [`release-notes-v0.5.0-beta.1.md`](release-notes-v0.5.0-beta.1.md) | v0.5.0-beta.1 的 Release 说明，可直接粘贴到 GitHub |
 | [`handoff-2026-10-22.md`](handoff-2026-10-22.md) | 2026-10-22 的开发交接：已完成、下一步、注意事项 |
 | [`../CONTRIBUTING.md`](../CONTRIBUTING.md) | 环境、目录约定、修改规则、PR 清单 |
+| [`../CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md) | 贡献者行为准则与执行方式 |
 | [`../SECURITY.md`](../SECURITY.md) | 密钥处理、不可信输入、漏洞报告 |

@@ -2,6 +2,8 @@
 
 TraceLit 目前是 **beta / research prototype**。欢迎修 bug、补测试、改文档、补边界案例；涉及语义判定口径的改动请先开 issue 说明理由。
 
+参与本项目即表示同意遵守 [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)。
+
 ## 环境
 
 - Python 3.10+。

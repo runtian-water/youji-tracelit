@@ -53,6 +53,16 @@
 2. 放入你的 agent 的 skills 目录，例如 `~/.claude/skills/tracelit`。GitHub 仓库可以叫 `youji-tracelit`，安装时目录名用 `tracelit`。
 3. 要求 Python 3.10+。核心零依赖；`rapidfuzz`、`certifi` 可选。
 
+```bash
+git clone https://github.com/runtian-water/youji-tracelit.git ~/.claude/skills/tracelit
+```
+
+Windows PowerShell：
+
+```powershell
+git clone https://github.com/runtian-water/youji-tracelit.git "$HOME\.claude\skills\tracelit"
+```
+
 ## 配置 OpenAlex key
 
 - 免费申请：<https://openalex.org/settings/api>，无需信用卡。

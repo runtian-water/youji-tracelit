@@ -12,14 +12,18 @@
 ├── CHANGELOG.md                     # 版本变更
 ├── CITATION.cff                     # GitHub “Cite this repository”
 ├── CONTRIBUTING.md                  # 开发与 PR 规则
+├── CODE_OF_CONDUCT.md               # 贡献者行为准则
 ├── SECURITY.md                      # 密钥与漏洞报告
 ├── requirements-optional.txt        # rapidfuzz / certifi（可选）
 ├── .env.example                     # key 占位符，不含真实 key
 ├── .gitignore                       # 忽略 .env、runs/、缓存等
 ├── .editorconfig
 ├── .github/
-│   └── workflows/
-│       └── ci.yml                   # Python 3.10 / 3.13 单测
+│   ├── workflows/
+│   │   └── ci.yml                   # Python 3.10 / 3.13 单测
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── ISSUE_TEMPLATE/
+│       └── bug_report.md
 ├── scripts/
 │   └── main.py                      # search / verify / audit / docx / doctor
 ├── references/

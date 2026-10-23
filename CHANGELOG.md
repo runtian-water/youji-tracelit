@@ -7,6 +7,8 @@
 - Annotation manual moved to `docs/annotation-manual.md` / `.docx`.
 - Selected development judgment JSON published under `examples/judgments/` so
   `eval_gold.py` and `score_annotation.py` examples run out of the box.
+- Community health files: code of conduct, pull request template, bug report
+  template, and clone-based install command in the README.
 
 ## 0.5.0 — 2026-10-22
 

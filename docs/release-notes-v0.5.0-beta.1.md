@@ -29,7 +29,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/youji-tracelit.git ~/.claude/skills/tracelit
+git clone https://github.com/runtian-water/youji-tracelit.git ~/.claude/skills/tracelit
 cd ~/.claude/skills/tracelit
 cp .env.example .env   # 填 OPENALEX_API_KEY
 python scripts/main.py doctor --tier 循迹
